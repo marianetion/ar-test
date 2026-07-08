@@ -175,6 +175,7 @@ h1 \{\
 \
   model-viewer \{\
     height: 460px;\
+    scale: 0.5;\
   \}\
 \
   h1 \{\
